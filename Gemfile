@@ -60,7 +60,7 @@ group :test do
 end
 gem "rails_event_store", "~> 2.15.0"
 
-gem "authentication-zero", "~> 2"
+gem "authentication-zero", "~> 3"
 
 # Use rotp for generating and validating one time passwords [https://github.com/mdp/rotp]
 gem "rotp"

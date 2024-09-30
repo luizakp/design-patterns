@@ -107,7 +107,7 @@ GEM
     arkency-command_bus (0.4.1)
       concurrent-ruby
     ast (2.4.2)
-    authentication-zero (2.16.36)
+    authentication-zero (3.0.2)
     base64 (0.2.0)
     bcrypt (3.1.20)
     bcrypt_pbkdf (1.1.1)
@@ -458,7 +458,7 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
-  authentication-zero (~> 2)
+  authentication-zero (~> 3)
   bcrypt (~> 3.1.7)
   bootsnap
   brakeman
